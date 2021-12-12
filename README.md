@@ -1,0 +1,2 @@
+# Horn-and-shunk-optical-flow
+Idea of computing the motion between two frames  and it is a classical Optical Flow estimation algorithm.  In this proposed method, important assumption made in this algorithm are that there isn’t any significant change in the lighting between two consecutive frames, calling it the Brightness Constancy Assumption. This means that if the object in the image moves or say, the camera moves, then, the colours of that object will remain the same, regardless of the lighting.
